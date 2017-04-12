@@ -1,6 +1,6 @@
 Welcome to my guide for Practical Python Programming for Social Science Scholars!
 
-Grasp the Basics (once you've finished with the Handout):
+Grasp the Basics (once you've finished with the Python Configuration Instructions):
 1. Go to [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/) and do all their lessons
 2. Read through [Handling Errors](http://i.imgur.com/WRuJV6r.png)
 3. If you ever have problems with the syntax, check out [TutorialsPoint Python](http://www.tutorialspoint.com/python/) 
